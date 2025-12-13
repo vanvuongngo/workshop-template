@@ -22,7 +22,7 @@ see full setup:https://revealjs.com/installation/#full-setup
 cd docs
 ```
 
-- Clone reveal.js template
+- Clone the latest reveal.js template
 ```sh
 pnpx degit https://github.com/hakimel/reveal.js.git
 ```
@@ -32,9 +32,32 @@ pnpx degit https://github.com/hakimel/reveal.js.git
 pnpm install
 ```
 
-- Serve the presentation
+- Serve the presentation to test that it is running locally
 ```sh
 pnpm start
 ```
 
 - Open http://localhost:8000 to view your presentation
+
+- `Ctrl+C` to close the node app
+
+
+## Setup github pages
+
+- go to `Settings`
+
+- choose <a href="settings/pages">Pages</a>
+
+Build and deployment | `Deploy from branch`
+
+Branch | `main` and folder `/docs`
+
+Click `Save`
+
+That is it. A github action will be triggered initially and on all git pushes.
+
+Ope your own deployed github page https://USER.github.io/YOUR-PROJECT/
+
+`USER` is your github user account
+
+`YOUR-PROJECT` is your github repository
