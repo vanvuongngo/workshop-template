@@ -18,7 +18,7 @@ see full setup:https://revealjs.com/installation/#full-setup
 
 ## Get started
 
-``````sh
+```sh
 cd doc
 ```
 
@@ -32,3 +32,9 @@ pnpx degit https://github.com/hakimel/reveal.js.git
 pnpm install
 ```
 
+- Serve the presentation
+```sh
+pnpm start
+```
+
+- Open http://localhost:8000 to view your presentation
