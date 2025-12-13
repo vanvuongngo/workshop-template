@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://vanvuongngo.github.io/linux-mint-workshop/">PC/ Linux Mint and OpenSource workshop 2026</a>
+  <a href="https://vanvuongngo.github.io/workshop-template/">... workshop 2026</a>
 </h1>
 
 <p>This workshop aims to provide an introduction to PC, Linux and OpenSource focusing on the Linux Mint Distribution.</p>
