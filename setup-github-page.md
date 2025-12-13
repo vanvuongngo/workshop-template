@@ -41,6 +41,12 @@ pnpm start
 
 - `Ctrl+C` to close the node app
 
+- append not needed directories from reveals to the `docs/.gitignore`
+
+```
+examples/
+dist/
+```
 
 ## Setup github pages
 
