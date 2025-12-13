@@ -19,7 +19,7 @@ see full setup:https://revealjs.com/installation/#full-setup
 ## Get started
 
 ```sh
-cd doc
+cd docs
 ```
 
 - Clone reveal.js template
