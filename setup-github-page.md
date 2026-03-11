@@ -10,7 +10,7 @@ npm i -g pnpm
 
 ## Get started
 
-For documentation, see basic setup: https://revealjs.com/installation/#basic-setup or see full setup:https://revealjs.com/installation/#full-setup
+For documentation, see basic setup: https://revealjs.com/installation/#basic-setup or see full setup: https://revealjs.com/installation/#full-setup
 
 ```sh
 cd docs
