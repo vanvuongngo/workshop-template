@@ -11,6 +11,10 @@
 
 </ul>
 
+## Best practices
+
+add page numbers: `slideNumber: true`
+
 ---
 <div align="right">
   MIT licensed | Copyright © 2026 <a href="https://github.com/vanvuongngo/">Van Vuong Ngo</a>
